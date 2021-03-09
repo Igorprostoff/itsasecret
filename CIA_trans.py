@@ -37,5 +37,14 @@ with open('res.csv', 'w', newline='') as csvfile:
             spamwriter.writerow([transDescription, transRationale])
         else:
             break
+﻿Игорь Простов приглашает вас на запланированную конференцию: Zoom.
+
+Тема: Зал персональной конференции Игорь Простов
+
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/5668823751?pwd=ZzNVSlZRTk93Rm1lYUN2SG1XNHp5QT09
+
+Идентификатор конференции: 566 882 3751
+Код доступа: 4v05q2
 
 
